@@ -12,6 +12,21 @@
     <description>Maven build cache extension</description>
     <url>http://github.com/pascalgn/build-cache-extension</url>
 
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Pascal</name>
+            <email>pascalgn@users.noreply.github.com</email>
+            <organizationUrl>https://github.com/pascalgn</organizationUrl>
+        </developer>
+    </developers>
+
     <scm>
         <connection>scm:git:git://github.com/pascalgn/build-cache-extension.git</connection>
         <developerConnection>scm:git:ssh://github.com:pascalgn/build-cache-extension.git</developerConnection>
